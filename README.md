@@ -3,7 +3,10 @@
 <p align="center">
   <strong>Computer Science undergraduate at PUCRS</strong> <br/>
   🎨 Digital artist <br/>
-  📸 My art account: <a href="https://www.instagram.com/bengo.artt/">@bengo.artt</a>
+  🌐 Portfólios de arte: <br/>
+  <a href="https://www.instagram.com/bengo.artt/">Instagram: @bengo.artt</a> · 
+  <a href="https://cara.app/bengoo">Cara</a> · 
+  <a href="https://www.artstation.com/bengo501">ArtStation</a>
 </p>
 
 ---
