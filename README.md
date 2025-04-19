@@ -1,1 +1,1 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Faphex-twin-gif-17229201765140220984&psig=AOvVaw2UZaHCM_mQ8DvCQrIE8AzR&ust=1745147861298000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCrmsT844wDFQAAAAAdAAAAABBa))
+![Alt Text](https://tenor.com/pt-BR/view/aphex-twin-gif-17229201765140220984)
