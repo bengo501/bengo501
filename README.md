@@ -1,6 +1,7 @@
 <h1 align="center">Hi! 👋</h1>
 
 <p align="center">
+  <h2 align="center">Bernardo Klein Heitz </h2>
   <strong>Computer Science undergraduate at PUCRS</strong> <br/>
   🎨 Digital artist <br/>
   🌐 Art Portfolio: <br/>
