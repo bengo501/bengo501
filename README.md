@@ -1,15 +1,30 @@
 <h1 align="center">Hi! 👋</h1>
 
-<h1 align="center">Bernardo Klein Heitz </h1>
+<h1 align="center">
+  Bernardo Klein Heitz 
+  <img src="https://github.com/user-attachments/assets/54363ca0-259b-4e4f-861f-b9ae2b3c37d4" width="50" style="vertical-align: middle; margin-left: 10px;"/>
+</h1> 
+
 <p align="center">
   <strong>Computer Science undergraduate at PUCRS</strong> <br/>
-  🎨 Digital artist <br/>
-  🌐 Art Portfolio: <br/>
-  <a href="https://www.instagram.com/bengo.artt/">Instagram: @bengo.artt</a> · 
-  <a href="https://cara.app/bengoo">Cara</a> · 
-  <a href="https://www.artstation.com/bengo501">ArtStation</a>
+  🎨 Digital artist passionate about blending technology and creativity <br/>
 </p>
 
+---
+## 💼 About Me
+
+- 🎓 I'm currently pursuing a **Bachelor's in Computer Science** at PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul).
+- 🖌️ I’m also a **digital artist**, working on character designs, environments, and concept art.
+- 🌱 Constantly learning more about graphics programming, visual storytelling, and creative coding.
+
+---
+
+## 🌐 Find My Art Online
+
+- 🎨 [**Instagram** - @bengo.artt](https://www.instagram.com/bengo.artt/)
+- 🖼️ [**Cara**](https://cara.app/bengoo)
+- 🎮 [**ArtStation**](https://www.artstation.com/bengo501)
+  
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a14d114a-f7d3-427e-a6f2-e86393e90977" width="250" style="margin: 5px;"/>
@@ -22,5 +37,7 @@
 </p>
 
 
+## 📫 Let's Connect
 
-![c843170c2cca0f28099b1e8b7c78a52b](https://github.com/user-attachments/assets/62a47739-27a1-40e6-a31e-0e1643378205)
+Feel free to reach out if you're interested in collaborating, have questions, or just want to say hi!
+
