@@ -27,7 +27,7 @@
 - 🎮 [**ArtStation**](https://www.artstation.com/bengo501)
 
 ## And other places
-- [**Itch.io** - @bengo501] (https://bengo501.itch.io/)
+- 🎮 [**Itch.io** - @bengo501](https://bengo501.itch.io/)
   
 ---
 <p align="center">
