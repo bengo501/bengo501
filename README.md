@@ -48,5 +48,5 @@
 
 ## 📫 Let's Connect
 
-- ✉️ Email: <a href="mailto:bernardokheitz@gmail.com">bernardokheitz@gmail.com</a>  
-- 💬 Feel free to reach out if you're interested in collaborating, have questions, or just want to say hi!
+- 💼 LinkedIn: [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
+- ✉️ Email: <a href="mailto:bernardokheitz@gmail.com">bernardokheitz@gmail.com</a>
