@@ -35,10 +35,10 @@
   <img src="https://github.com/user-attachments/assets/847b8bda-9a54-4354-845f-de7cd349b456" width="250" style="margin: 5px;"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d1ec708c-6e48-43c6-815b-8cf6d7338d93" width="250" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/eee574c8-78cb-470a-94c6-6303b0a1c3b9" width="250" style="margin: 5px;"/>
-</p>
+## <p align="center">
+##   <img src="https://github.com/user-attachments/assets/d1ec708c-6e48-43c6-815b-8cf6d7338d93" width="250" style="margin: 5px;"/>
+##   <img src="https://github.com/user-attachments/assets/eee574c8-78cb-470a-94c6-6303b0a1c3b9" width="250" style="margin: 5px;"/>
+## </p>
 
 
 ## 📫 Let's Connect
