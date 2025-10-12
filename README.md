@@ -1,7 +1,6 @@
 <h1 align="center">Hi! 👋</h1>
 
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/72669df0-54ed-47a3-bd87-7840d0a9a329" width="50" style="vertical-align: middle; margin-right: 10px;"/>
   Bernardo Klein Heitz 
   <img src="https://github.com/user-attachments/assets/54363ca0-259b-4e4f-861f-b9ae2b3c37d4" width="50" style="vertical-align: middle; margin-left: 10px;"/>
 </h1> 
