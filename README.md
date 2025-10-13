@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Computer Science undergraduate at PUCRS</strong> <br/>
-  🎨 Digital artist passionate about blending technology and creativity <br/>
+    Digital artist passionate about blending technology and creativity <br/>
 </p>
 
 <p align="center">
@@ -22,22 +22,22 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
-- 🎓 I'm currently pursuing a **Bachelor's in Computer Science** at PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul).
-- 🖌️ I’m also a **digital artist**, working on character designs, environments, and concept art.
-- 🌱 Constantly learning more about graphics programming, visual storytelling, and creative coding.
+- I'm currently pursuing a **Bachelor's in Computer Science** at PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul).
+- I’m also a **digital artist**, working on character designs, environments, and concept art.
+- Constantly learning more about graphics programming, visual storytelling, and creative coding.
 
 ---
 
-## 🌐 Find My Art Online
+## Find My Art Online
 
-- 🎨 **Instagram** — [@bengo.artt](https://www.instagram.com/bengo.artt/)
-- 🖼️ **Cara** — [cara.app/bengoo](https://cara.app/bengoo)
-- 🎮 **ArtStation** — [artstation.com/bengo501](https://www.artstation.com/bengo501)
-- 🕹️ **Itch.io** — [itch.io/@bengo501](https://bengo501.itch.io/)
-- 🅱️ **Behance** — [behance.net/bernardoheitz](https://www.behance.net/bernardoheitz)
-- 💼 **LinkedIn** — [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
+-   **Instagram** — [@bengo.artt](https://www.instagram.com/bengo.artt/)
+-   **Cara** — [cara.app/bengoo](https://cara.app/bengoo)
+-   **ArtStation** — [artstation.com/bengo501](https://www.artstation.com/bengo501)
+-   **Itch.io** — [itch.io/@bengo501](https://bengo501.itch.io/)
+-   **Behance** — [behance.net/bernardoheitz](https://www.behance.net/bernardoheitz)
+-   **LinkedIn** — [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
 
 ---
 
@@ -46,7 +46,7 @@
   <img src="https://github.com/user-attachments/assets/847b8bda-9a54-4354-845f-de7cd349b456" width="250" style="margin: 5px;"/>
 </p>
 
-## 📫 Let's Connect
+##   Let's Connect
 
-- 💼 LinkedIn: [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
-- ✉️ Email: <a href="mailto:bernardokheitz@gmail.com">bernardokheitz@gmail.com</a>
+-   LinkedIn: [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
+-   Email: <a href="mailto:bernardokheitz@gmail.com">bernardokheitz@gmail.com</a>
