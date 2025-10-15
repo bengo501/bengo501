@@ -34,7 +34,7 @@
 
 -   **Instagram** — [@bengo.artt](https://www.instagram.com/bengo.artt/)
 -   **Cara** — [cara.app/bengoo](https://cara.app/bengoo)
--   **ArtStation** — [artstation.com/bengo501](https://www.artstation.com/bengo_art)
+-   **ArtStation** — [artstation.com/bengo_art](https://www.artstation.com/bengo_art)
 -   **Itch.io** — [itch.io/@bengo501](https://bengo501.itch.io/)
 -   **Behance** — [behance.net/bernardoheitz](https://www.behance.net/bernardoheitz)
 -   **LinkedIn** — [Bernardo Klein Heitz](https://www.linkedin.com/in/bernardo-klein-heitz-93b6a12a3/)
