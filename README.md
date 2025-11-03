@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Computer Science undergraduate at PUCRS</strong> <br/>
-    Digital artist passionate about blending technology and creativity <br/>
+    Digital artist <br/>
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 
 - I'm currently pursuing a **Bachelor's in Computer Science** at PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul).
 - I’m also a **digital artist**, working on character designs, environments, and concept art.
-- Constantly learning more about graphics programming, visual storytelling, and creative coding.
 
 ---
 
