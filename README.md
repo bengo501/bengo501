@@ -25,7 +25,7 @@
 ## About Me
 
 - I'm currently pursuing a **Bachelor's in Computer Science** at PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul).
-- I’m also a **digital artist**, working on character designs, environments, and concept art.
+- I’m also a **digital artist**, working on character designs and concept art.
 
 ---
 
